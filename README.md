@@ -8,7 +8,7 @@
 **Packages :** pandas, pnadas-datareader, sklearn, numpy, requests, django, matplotlib, seaborn, selenium
 
 ## Case Studies:
-c![alt text](https://github.com/Tejan4422/TrendingNews/blob/master/WordCloud.png "word cloud")
+![alt text](https://github.com/Tejan4422/TrendingNews/blob/master/WordCloud.png "word cloud")
 
 Word cloud clearly demonstrates trending topics amongst various news channels 
 
